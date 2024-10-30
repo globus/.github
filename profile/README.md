@@ -9,7 +9,7 @@ This organization contains example implementations and samples, codebases for ou
 ## Examples
 
 - [All Example Repositories](https://github.com/orgs/globus/repositories?q=topic%3Aexample)
-  - Portals
+  - [Portals](https://github.com/orgs/globus/repositories?q=topic%3Aexample+topic%3Aportal)
     - [Serverless Portals](https://github.com/orgs/globus/repositories?q=topic%3Aexample+topic%3Aportal+topic%3Aserverless)
 
 
